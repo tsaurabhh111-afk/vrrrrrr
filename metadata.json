@@ -1,0 +1,5 @@
+{
+  "name": "VR High Resistance Lab",
+  "description": "A 3D virtual simulation for measuring high resistance using the loss of charge method, assisted by AI.",
+  "requestFramePermissions": []
+}
